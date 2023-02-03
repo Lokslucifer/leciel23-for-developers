@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leciel19-master-for-developers.iml" filepath="$PROJECT_DIR$/.idea/modules/leciel19-master-for-developers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/leciel19-master-for-developers.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
