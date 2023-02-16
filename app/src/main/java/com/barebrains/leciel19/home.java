@@ -122,6 +122,14 @@ public class home extends Fragment {
             }
         });
 
+        ((CardView)root.findViewById(R.id.pg)).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i=new Intent(getContext(),event_categories.class);
+                i.putExtra("category","photography");
+                startActivity(i);
+            }
+        });
         ((CardView)root.findViewById(R.id.ps)).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
